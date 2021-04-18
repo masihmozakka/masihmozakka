@@ -65,14 +65,16 @@ And when it comes to Energy Engineering I'm most intrigued by
 **But** that is not all! here is a special section I would like to devout to studies which concern both of my degrees, these fields combine my interests into one and excite me the most.
 - Game Theory and Energy Policy: After discovering this field I have not been able to let go and have conducted extensive research in order to better educate myself.
 - Computational Efficiency and Energy Use: With our ever more digitally focused world, it is important to consider (both small-scale and large-scale) how our computers use energy and strive to create better systems, either by improving the hardware or the software.
+- Cybersecurity in the Energy Sector: This is a new interest of mine that I'm just getting into. I think that with the continued evolution of the field of cyberwarfare there is a need for professionals with a good understanding of energy technologies and developed technical abilites that can take the defense of infrastructure from a primarily _reactive_ endeavour (in my humble view) to a _proactive_ state of mind.
 
 
 ## 🌱 What am I Currently Learning?
 This is a dynamic list that I will do my best to update as I get interested in new stuff or complete learning others. Right now I'm looking into
 - [ ] manim
 - [ ] beamer
-- [ ] LaTeX package creation
-- [ ] web development using django
+- [x] LaTeX package creation _(on hold right now)_
+- [x] web development using django _(on hold right now)_
+- [ ] Advanced C++
 
 ## :notebook: University Courses I Have This Semester
 - Mathematics
