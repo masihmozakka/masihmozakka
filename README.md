@@ -44,6 +44,7 @@ As part of the “*Asre Energy*” series of talks, Amirkabir University of Tech
 ## :mag: My Research Interests
 A short list will of course not do this section justice, my interests often get more niche or combine into inter-disciplinary fields. But alas, in the field of mathematics my general interests include
 - Graph Theory and Applications
+- Combinatorics, Ramsey Theory in particular
 - Mathematical Logic
 - Cryptography
 - Number Theory
