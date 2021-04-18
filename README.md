@@ -72,8 +72,8 @@ And when it comes to Energy Engineering I'm most intrigued by
 This is a dynamic list that I will do my best to update as I get interested in new stuff or complete learning others. Right now I'm looking into
 - [ ] manim
 - [ ] beamer
-- [x] LaTeX package creation _(on hold right now)_
-- [x] web development using django _(on hold right now)_
+- [ ] ~~LaTeX package creation~~ _(on hold right now)_
+- [ ] ~~web development using django~~ _(on hold right now)_
 - [ ] Advanced C++
 
 ## :notebook: University Courses I Have This Semester
