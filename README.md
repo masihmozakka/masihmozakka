@@ -28,6 +28,11 @@ Having visited and lived in many parts of the world I love meeting new people an
 - I was the Teaching Assistant for a course on _Energy Conversion_ taught by Dr. Atefeh Behzadi Forough
 - Chairman of the student guild association, Amirkabir University of Technology
 
+## 📝 Publications
+
+- _Introduction to Two Open Problems in Graph Theory_ (Persian), Published in the magazine of the Scientific Association of the Mathematics and Computer Science Faculty, Amirkabir University of Technology, Issue 3, Spring 2020
+
+
 ## :briefcase: General Experiences
 
 - Studied abroad (secondary school) at Sayfol School, Kuala Lumpur, Malaysia, 2011-2012.
@@ -76,6 +81,7 @@ This is a dynamic list that I will do my best to update as I get interested in n
 - [ ] ~~LaTeX package creation~~ _(on hold right now)_
 - [ ] ~~web development using django~~ _(on hold right now)_
 - [ ] Advanced C++
+- [ ] Algebraic geometry
 
 ## :notebook: University Courses I Have This Semester
 - Mathematics
